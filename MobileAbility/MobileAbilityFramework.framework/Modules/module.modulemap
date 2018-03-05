@@ -1,0 +1,6 @@
+framework module MobileAbilityFramework {
+  umbrella header "MobileAbilityFramework.h"
+
+  export *
+  module * { export * }
+}
